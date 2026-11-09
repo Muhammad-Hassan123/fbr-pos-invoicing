@@ -1,0 +1,6 @@
+@fbr_full.Server_HostAddress = http://localhost:5098
+
+GET {{fbr_full.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
